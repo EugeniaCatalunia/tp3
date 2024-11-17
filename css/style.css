@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+
+
+body {
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+    background-color: rgb(255, 255, 255);
+}
+
+h1,
+h3,
+h2, 
+h4,
+h5 {font-family: "Baskerville", serif;
+    font-weight: 500;
+}
+
+header {
+    margin-top: 100px; 
+    margin-left: 56px;
+    margin-right: 56px;
+  }
+
+nav.bg-dark {
+     background-color: rgb(222, 188, 21) !important ;
+    font-family: baskerville, serif;}
+
+nav img { width: 30px;
+          margin-right: 20px;}
+
+
+footer {
+
+    height: 10vh;
+}
